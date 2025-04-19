@@ -6,6 +6,7 @@
 | Froggy Junior | Atari 2600 Jr  | 9V | 500 mA  | Positivo a la punta  |
 | Nintendo  | Famicom  | 10V  | 850 mA  | Negativo al Centro  |
 | Nintendo  | Famicom  Disk System | 9V  | 400 mA  | Negativo al Centro  |
+| Nintendo  | Super Famicom | 10V  | 850 mA  | Negativo al Centro  |
 | Sega  | CD 1  | 9V  | 1.2A  | Negativo al Centro  |
 | Sega  | CD 2  | 9V  | 1.2A  | Negativo al Centro  |
 | Sega  | Genesis 1  | 9V  | 1.2A  | Negativo al Centro  |
