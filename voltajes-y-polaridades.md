@@ -1,5 +1,6 @@
 | Marca  | Equipo | Voltaje | Amperaje | Polaridad / Pinout |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Atari  | 2600  | 9V | 500mA  | Positivo a la punta  |
 | Chaplet  | LA-30A  | 17V | 3.5A  | 1 y 4 Positivo, 3 y 5 Ground (power supply pinout)  |
 | Czerweny  | CZ 1500  | 9V | ?  | Positivo a la punta  |
 | Czerweny  | CZ Spectrum  | 9V | 1.5-1.8A (No confirmado, sugerido por @fergleiser)  | Negativo al Centro  |
